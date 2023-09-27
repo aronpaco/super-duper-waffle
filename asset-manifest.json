@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/super-duper-waffle/static/css/main.073c9b0a.css",
-    "main.js": "/super-duper-waffle/static/js/main.a6717adc.js",
+    "main.css": "/super-duper-waffle/static/css/main.ccf0d984.css",
+    "main.js": "/super-duper-waffle/static/js/main.fe050042.js",
     "static/js/787.31aa6232.chunk.js": "/super-duper-waffle/static/js/787.31aa6232.chunk.js",
     "static/media/logo.svg": "/super-duper-waffle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/super-duper-waffle/index.html",
-    "main.073c9b0a.css.map": "/super-duper-waffle/static/css/main.073c9b0a.css.map",
-    "main.a6717adc.js.map": "/super-duper-waffle/static/js/main.a6717adc.js.map",
+    "main.ccf0d984.css.map": "/super-duper-waffle/static/css/main.ccf0d984.css.map",
+    "main.fe050042.js.map": "/super-duper-waffle/static/js/main.fe050042.js.map",
     "787.31aa6232.chunk.js.map": "/super-duper-waffle/static/js/787.31aa6232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a6717adc.js"
+    "static/css/main.ccf0d984.css",
+    "static/js/main.fe050042.js"
   ]
 }
