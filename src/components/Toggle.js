@@ -1,7 +1,7 @@
 import { Button } from "@mui/material"
 import React from "react"
 
-const Toggle = () => {
+const Toggle = ({ toggleShow }) => {
   return (
     <Button
       variant="contained"
