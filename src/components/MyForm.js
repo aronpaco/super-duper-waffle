@@ -17,7 +17,7 @@ const MyForm = () => {
   const submitForm = event => {
     event.preventDefault()
 
-    console.log(myForm)
+    console.log({ myForm })
   }
 
   // useEffect(() => {
