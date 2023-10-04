@@ -13,7 +13,7 @@ import Tooltip from "@mui/material/Tooltip"
 import MenuItem from "@mui/material/MenuItem"
 import AdbIcon from "@mui/icons-material/Adb"
 
-const pages = ["Products", "Pricing", "Blog"]
+const pages = ["Funky Examples", "Pricing", "Blog"]
 const settings = ["Profile", "Account", "Dashboard", "Logout"]
 
 function ResponsiveAppBar() {
@@ -55,7 +55,7 @@ function ResponsiveAppBar() {
               textDecoration: "none"
             }}
           >
-            LOGO
+            SUPER-DUPER-WAFFLE
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -114,7 +114,7 @@ function ResponsiveAppBar() {
               textDecoration: "none"
             }}
           >
-            LOGO
+            super-duper-waffle
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {pages.map(page => (

@@ -15,6 +15,8 @@ import { Typography } from "@mui/material"
 import InterestList from "./components/InterestList"
 import UserList from "./components/UserList"
 import RandomPosts from "./components/RandomPosts"
+import OutlinedCard from "./components/OutlinedCard"
+import { Link } from "react-router-dom"
 
 function App() {
   const [show, setShow] = useState(true)
@@ -31,13 +33,6 @@ function App() {
         >
           Aron
         </Typography>
-        <Typography variant="h6">
-          <InterestList interests={interests} />
-        </Typography>
-        <Context />
-        <MyForm />
-        <UserList />
-        <RandomPosts />
       </div>
     </div>
   )
