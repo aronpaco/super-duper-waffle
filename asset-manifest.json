@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/super-duper-waffle/static/css/main.2927052f.css",
-    "main.js": "/super-duper-waffle/static/js/main.3d91830f.js",
+    "main.js": "/super-duper-waffle/static/js/main.af9d331e.js",
     "static/js/787.31aa6232.chunk.js": "/super-duper-waffle/static/js/787.31aa6232.chunk.js",
     "index.html": "/super-duper-waffle/index.html",
     "main.2927052f.css.map": "/super-duper-waffle/static/css/main.2927052f.css.map",
-    "main.3d91830f.js.map": "/super-duper-waffle/static/js/main.3d91830f.js.map",
+    "main.af9d331e.js.map": "/super-duper-waffle/static/js/main.af9d331e.js.map",
     "787.31aa6232.chunk.js.map": "/super-duper-waffle/static/js/787.31aa6232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2927052f.css",
-    "static/js/main.3d91830f.js"
+    "static/js/main.af9d331e.js"
   ]
 }
