@@ -31,7 +31,7 @@ function App() {
           variant="h3"
           gutterBottom
         >
-          Aron
+          Aron Paco
         </Typography>
       </div>
     </div>
