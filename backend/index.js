@@ -1,7 +1,7 @@
 const express = require("express")
 const app = express()
 const port = 8000
-const catsRoutes = require("./routes/cat.routes")
+const catsRoutes = require("./routes/cats.routes")
 
 app.use(express.json())
 

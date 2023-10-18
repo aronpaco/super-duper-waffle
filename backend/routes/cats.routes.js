@@ -1,4 +1,4 @@
-// routes/cat.routes.js
+// routes/cats.routes.js
 // CRUD - create, read, update, delete
 
 const express = require("express")

@@ -33,6 +33,7 @@ function App() {
         >
           Aron Paco
         </Typography>
+        <Maths />
       </div>
     </div>
   )
